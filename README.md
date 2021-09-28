@@ -1,0 +1,2 @@
+# safemoon
+Safemoons contract
